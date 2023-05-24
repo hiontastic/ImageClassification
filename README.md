@@ -13,8 +13,8 @@ VGG-16 with “GlobalAveragePooling2D” and “Dense” layers
 VGG-16 with “GlobalAveragePooling2D” and “Dense” layers,  added by Data Augmentation, dropout rate, L2 regularization.
 
 Results overview
-![Accuracy_and_Training_loss](![Training_validation_testing_accuracy](https://github.com/hiontastic/ImageClassification/assets/129336225/aa572ab3-7e54-4570-a34e-4a74ac550048)
-https://github.com/hiontastic/ImageClassification/assets/129336225/88984075-d29d-4e24-bce8-8efd4b33b508)
+![Training_validation_testing_accuracy](https://github.com/hiontastic/ImageClassification/assets/129336225/aa572ab3-7e54-4570-a34e-4a74ac550048)
+![Accuracy_and_Training_loss](https://github.com/hiontastic/ImageClassification/assets/129336225/88984075-d29d-4e24-bce8-8efd4b33b508)
 
 ## Model Selection Criteria
 1. Model accuraccy
