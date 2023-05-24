@@ -1,4 +1,4 @@
-# ImageClassification
+# ImageClassification Procedure Overview
 
 ## Description
 This project aims to enhance the current weather detection mechanism by developing an optimal prediction model using deep learning Convolutional Neural Networks (CNN). It provides a complementary approach to traditional forecast models by incorporating live pictures of weather patterns to capture and classify upcoming weather swiftly. The model offers valuable and timely information about imminent weather changes, serving as an enhancement to the existing weather detection approach.
